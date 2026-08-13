@@ -4,15 +4,15 @@ A resilient, polite data extraction pipeline built in Python. This scraper downl
 
 ## 🎯 Target Classification
 * **Target Site:** Books to Scrape (https://books.toscrape.com/)
-* **Reason:** It is a public practice sandbox explicitly built for people to learn scraping[cite: 1].
-* **Scope:** Only the first 3 catalogue pages and their associated book detail pages[cite: 1].
-* **Data Collected:** Book title, product URL, price, availability, rating, and description[cite: 1].
-* **Robots.txt Check:** No robots file found (returned 404 Not Found)[cite: 1].
+* **Reason:** It is a public practice sandbox explicitly built for people to learn scraping.
+* **Scope:** Only the first 3 catalogue pages and their associated book detail pages.
+* **Data Collected:** Book title, product URL, price, availability, rating, and description.
+* **Robots.txt Check:** No robots file found (returned 404 Not Found).
 
-I will not reuse this code on another site without checking its rules and terms first[cite: 1].
+I will not reuse this code on another site without checking its rules and terms first.
 
 ## 🛠️ Installation & Lane
-This project was built in the **Python lane**[cite: 1].
+This project was built in the **Python lane**.
 
 1. Create and activate a virtual environment:
     ```bash
