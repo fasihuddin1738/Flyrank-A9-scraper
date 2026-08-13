@@ -15,17 +15,17 @@ I will not reuse this code on another site without checking its rules and terms 
 This project was built in the **Python lane**[cite: 1].
 
 1. Create and activate a virtual environment:
-   ```bash
-   python -m venv venv
-   .\venv\Scripts\activate
+    ```bash
+    python -m venv venv
+    .\venv\Scripts\activate
 
-```
+    ```
 
 2. Install dependencies:
-```bash
-pip install requests beautifulsoup4 pydantic
+    ```bash
+    pip install requests beautifulsoup4 pydantic
 
-```
+    ```
 
 
 
