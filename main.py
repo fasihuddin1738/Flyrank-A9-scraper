@@ -1,4 +1,3 @@
-#USER_AGENT = "FlyRankInternship_A9/1.0 (+https://github.com/fasihuddin1738/Flyrank-A9-scraper)"
 import os
 import time
 import requests
